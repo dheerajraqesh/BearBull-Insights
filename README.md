@@ -1,4 +1,4 @@
-# BullBear Insights 💹
+# BearBull Insights 💹
 
 [![Python](https://img.shields.io/badge/Python-3.x-blue)](https://www.python.org/)  
 [![Streamlit](https://img.shields.io/badge/Streamlit-App-green)](https://streamlit.io/)  
@@ -29,9 +29,9 @@ BullBear Insights predicts **next-day stock trends (Up/Down)** using historical 
 
 ---
 
-## 📂 Repository Structure
+## 📂 Project Structure
 
-bullbear-insights/
+bearbull-insights/
 │
 ├── app.py # Streamlit app
 ├── data/ # Optional raw stock data
